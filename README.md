@@ -1,1 +1,1 @@
-Greetings, fellow nerds! 👋
+Greetings! 👋
