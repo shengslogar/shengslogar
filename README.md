@@ -1,6 +1,6 @@
 ### Hey there, stranger 🌊
 
-Welcome to the wild world of code by yours truly. I'm currently hanging out in Utah building [Diglactic](http://github.com/diglactic), focusing on thoughtfully crafting apps _for humans_. Laravel + Vue.js + SCSS is my current go-to.
+Welcome to the wild world of code by yours truly. I'm currently hanging out in Utah building [Diglactic](http://github.com/diglactic), focusing on thoughtfully crafting apps _for humans_. Laravel + Vue.js + SCSS are my current go-to.
 
 I like naps, sunsets, and ice cream. And code, sometimes. This past winter I dived (figuratively and literally) into skiing. The rest of the year you can catch me going for a run or gliding along on my [Onewheel](https://onewheel.com/).
 
