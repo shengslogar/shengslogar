@@ -4,9 +4,9 @@ Welcome to my... GitHub?? I'm currently hanging out in Utah building [Diglactic]
 
 I like naps, sunsets, and ice cream. Code, too, sometimes. Some days you can catch me going gasping for air on a run or gliding along on my [Onewheel](https://onewheel.com/).
 
-Come hang out on [Twitter](https://twitter.com/ShengSlogar) or <a rel="me" href="https://mstdn.social/@sheng">Mastodon</a>, or drop an invite on [LinkedIn](https://www.linkedin.com/in/shengslogar/).
+Come hang out on [Twitter](https://twitter.com/ShengSlogar) or [Mastodon](https://mstdn.social/@sheng), or drop an invite on [LinkedIn](https://www.linkedin.com/in/shengslogar/).
 
 See ya around! 🥰
 
 ---
-Last updated: 2023-01-02
+Last updated: 2023-01-14
