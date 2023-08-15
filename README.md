@@ -1,6 +1,6 @@
 ### Hey there! 🌊
 
-Welcome to my... GitHub?? I'm currently hanging out in Milwaukee, Wisconsin building [Diglactic](https://diglactic.com) where we thoughtfully create apps, for humans. Laravel + Vue.js + SCSS are my current go-to.
+Welcome to my... GitHub?? I'm currently hanging out in Milwaukee, Wisconsin building [Diglactic](https://diglactic.com), where we thoughtfully create apps, for humans. Laravel + Vue.js + SCSS are my current go-to.
 
 I like naps, sunsets, and ice cream. Code, too, sometimes. Some days you can catch me going gasping for air on a run or gliding along on my [Onewheel](https://onewheel.com/).
 
