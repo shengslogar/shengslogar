@@ -6,7 +6,7 @@ I like naps, sunsets, and ice cream. Code, too, sometimes. You might catch me ga
 
 Come hang out on [Threads](https://www.threads.net/@shengslogar) or [X](https://x.com/ShengSlogar), or drop an invite on [LinkedIn](https://www.linkedin.com/in/shengslogar/). Always love connecting with new folks!
 
-See ya around! 🥰
+See ya around 🥰
 
 ---
 Last updated: 2024-07-11
